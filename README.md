@@ -1,4 +1,4 @@
-# Plant-Pathology-2021-FGVC8
+# Classification of Foliar Diseases in Plants Using Deep Learning
 ### Identify the category of foliar diseases in apple trees
 <h1>Details of the Project</h1>
 <p> Plant Pathology competition is a annual competition conducted by <b>FGVC8</b> to detect foilar diseases in Apple Plants. </p>
